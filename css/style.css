@@ -112,3 +112,25 @@ outline: none !important;
     margin-left: 15px;
     font-size: 19px;
 }
+/*-------------page Contact----------*/
+
+.contact {
+
+text-align: none;
+font-size: 20px;
+font-weight: 400;
+margin-left: 40px;
+color: white;
+}
+
+.map {
+margin-top: 35px;
+align-content: center;
+border: solid 2px red;
+height:454px ;
+width: 604px;
+}
+
+.uppercase {
+     text-transform: uppercase;
+}
