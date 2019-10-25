@@ -2,7 +2,8 @@
 
 This project is developing for a real football club.
 The original version of web site you could find by the following link http://www.firhousecarmel.com.
-Firhouse Carmel Football Club was founded in 1974 to cater for Schoolboys and girls in the local area. In this project you will find the new web site design for Club.
+Firhouse Carmel Football Club was founded in 1974 to cater for Schoolboys and girls in the local area.
+In this project you will find the new web site design for Club.
 
 ### UX ###
 
@@ -23,6 +24,7 @@ There is a extra link called Version 1.0 for visiting original web site.
 
 ### Technologies Used ###
 
-HTML, CSS and BOOTSTRAP.
+To complete this project the site developer uses HTML, CSS languages and framework BOOTSTRAP.
+The project was developed and tested in Gitpod IDE and transferred from Gitpod to Github external repository.
 
-### Testing ###
+Thank you and enjoy!
