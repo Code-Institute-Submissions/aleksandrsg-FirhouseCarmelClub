@@ -4,7 +4,7 @@ padding: 0;
 }
 
 .backgroundimg {
-    background-image: url('/files/football.jpg');
+    background-image: url('https://www.essentiallysports.com/wp-content/uploads/football-2518982_960_720.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
