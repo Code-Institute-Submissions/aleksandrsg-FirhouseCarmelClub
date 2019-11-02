@@ -68,22 +68,21 @@ font-family: 'VT323', monospace;
     height: 150px;
 }
 
-
 .navbar-logo {
 position: absolute;
-left: 50%;
-transform: translateX(-50%);
+left: 85%;
 top: 0;
 }
 
+/*.navbar-logo {
+position: absolute;
+left: 90%;
+transform: translateX(-50%);
+top: 0;
+}*/
+
 .navbar{
 padding: 1em 2px !important;
-
-}
-
-.navbar-toggler {
-border: none !important;
-outline: none !important;
 
 }
 
@@ -109,9 +108,12 @@ outline: none !important;
 }
 /*----------page About us--------*/
 .about {
-    color: #fafafa;
+    color: lavender;
     margin-left: 15px;
     font-size: 19px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
 }
 /*-------------page Contact----------*/
 
@@ -122,12 +124,13 @@ font-size: 20px;
 font-weight: 400;
 margin-left: 40px;
 color: white;
+margin-top: 35px;
 }
 
 .map {
 margin-top: 35px;
 align-content: center;
-border: solid 2px red;
+border: solid 2px #242A87;
 height:454px ;
 width: 604px;
 }
