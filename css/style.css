@@ -9,7 +9,7 @@ padding: 0;
     background-position: center center;
     background-repeat: no-repeat;
     height: 100vh;
-    width: 100%;
+    /*width: 100%;*/
 }
 /*---------------------------------------Footer------------*/
 
@@ -63,7 +63,16 @@ font-family: 'VT323', monospace;
 }
 
 /*---------------------------Header-------*/
-.navbar-logo img {
+.navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: transparent;
+    border: 1px solid #242A87;
+    border-radius: .25rem;
+}
+
+/*.navbar-logo img {
     width: 150px;
     height: 150px;
 }
@@ -74,12 +83,12 @@ left: 85%;
 top: 0;
 }
 
-/*.navbar-logo {
+navbar-logo {
 position: absolute;
 left: 90%;
 transform: translateX(-50%);
 top: 0;
-}*/
+}
 
 .navbar{
 padding: 1em 2px !important;
@@ -91,11 +100,9 @@ padding: 1em 2px !important;
     padding-right: 30px;
     height: 150px;
 }
-
+*/
 .nav-item {
     margin-top:30px;
-    font-size: 36px;
-    text-align: center;
     color: #242A87;
 }
 
@@ -110,7 +117,7 @@ padding: 1em 2px !important;
 .about {
     color: lavender;
     margin-left: 15px;
-    font-size: 19px;
+    font-size: 12px;
     margin-left: 100px;
     margin-right: 100px;
     margin-top: 20px;
@@ -132,19 +139,20 @@ margin-top: 35px;
 align-content: center;
 border: solid 2px #242A87;
 height:454px ;
-width: 604px;
+width: 100%;
 }
 
-.uppercase {
-     text-transform: uppercase;
+/*.uppercase {
+     text-transform: uppercase;*/
 }
 
 /*------------------------Registration Form---------------------*/
 
 .label{
-    font-size: 19px;
-    margin-top: 20px;
+    font-size: 14px;
+    margin-top: 25px;
     font-weight: normal;
+    color:#BD670D
 }
 
 .form-control{
@@ -176,7 +184,8 @@ option {
 
 .col-md-6{
     background: rgba(0,0, 0, 0.2);
-    height: 640px;
-    box-shadow: -1px 1px 60px 10px black inset;
+    height: 100%;
+    /*box-shadow: -1px 1px 60px 10px black inset;*/
+    margin-top: 10px;
 
 }
