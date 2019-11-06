@@ -149,7 +149,7 @@ border: solid 2px #242A87;
     font-size: 14px;
     margin-top: 25px;
     font-weight: normal;
-    color:#BD670D
+    color:#BD670D;
 }
 
 .form-control{
@@ -184,5 +184,12 @@ option {
     height: 100%;
     /*box-shadow: -1px 1px 60px 10px black inset;*/
     margin-top: 10px;
+
+}
+/*-------------------Carousel-----------*/
+
+.carouselimg {
+    height: 680px;
+    width: 100%;
 
 }
