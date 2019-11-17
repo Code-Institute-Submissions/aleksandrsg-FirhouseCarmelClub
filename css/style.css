@@ -150,6 +150,7 @@ border: solid 2px #242A87;
 }
 
 /*------------------------Registration Form---------------------*/
+
 .label{
     font-size: 14px;
     margin-top: 25px;
@@ -195,9 +196,8 @@ option {
 .btn{
     margin-top: 5px;
     margin-left:40px;
-      /*-------------------Carousel-----------*/
+      /*-------------------Gallery-----------*/
 
-.carouselimg {
-    height: 680px;
-    width: 100%;
+.carousel-item{
+    
 }
