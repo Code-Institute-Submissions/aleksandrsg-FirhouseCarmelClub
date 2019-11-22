@@ -4,25 +4,6 @@ padding: 0;
 height:100%;
 }
 
-#container {
-   min-height:100%;
-   position:relative;
-}
-
-#header {
-   padding:10px;
-}
-#body {
-   padding:10px;
-   padding-bottom:60px;   /* Height of the footer */
-}
-#footer {
-   position: sticky;
-   bottom:0;
-   width:100%;
-   height:60px;   /* Height of the footer */
-}
-
 .backgroundimg {
     background-image: url('https://www.essentiallysports.com/wp-content/uploads/football-2518982_960_720.jpg');
     background-size: cover;
@@ -223,4 +204,19 @@ option {
 .carousel-control-next-icon, .carousel-control-prev-icon {
     width: 40px;
     height: 40px
+}
+#shell{
+   min-height:100%;
+   position:relative;
+}
+
+#body {
+   padding:10px;
+   padding-bottom:0px;   /* Height of the footer */
+}
+#footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:0px;   /* Height of the footer */
 }
