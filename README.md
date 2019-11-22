@@ -20,7 +20,9 @@ Page 2 is About, in this section the user will find information about club main 
 Page 3 is Contact, in the third section user will find all contact information such as phone number, email
 and location map.
 Page 4 Registration, in this section user will fill the registration form.
-There is a extra link called Version 1.0 for visiting original web site.
+There is a extra link called Version 1.0 for visiting original web site. (But eprox. from 20th of November 
+the original site is unavailable.)
+Added Page 5 called Gallery with three fotos. 
 
 ### Technologies Used ###
 
