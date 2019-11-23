@@ -220,3 +220,17 @@ option {
    width:100%;
    height:0px;   /* Height of the footer */
 }
+/* This is variant one for carousel resize*/
+
+.carousel-inner > .carousel-item > img {
+    width: 100px;
+    height: 560px;
+}
+
+
+/*-------This is variant two for carousel window resize
+
+.carousel {
+    width: 640px;
+    height: 360px;
+*/
