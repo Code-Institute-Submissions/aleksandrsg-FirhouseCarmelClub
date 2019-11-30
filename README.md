@@ -20,13 +20,21 @@ Page 2 is About, in this section the user will find information about club main 
 Page 3 is Contact, in the third section user will find all contact information such as phone number, email
 and location map.
 Page 4 Registration, in this section user will fill the registration form.
-There is a extra link called Version 1.0 for visiting original web site. (But eprox. from 20th of November 
-the original site is unavailable.)
+There is a extra link called Version 1.0 for visiting original web site.
 Added Page 5 called Gallery with three fotos. 
+
 
 ### Technologies Used ###
 
 To complete this project the site developer uses HTML, CSS languages and framework BOOTSTRAP.
-The project was developed and tested in Gitpod IDE and transferred from Gitpod to Github external repository.
+The project was developed and tested in Gitpod IDE and transferred from Gitpod to Github external repository:
+https://github.com/aleksandrsg/FirhouseF.C.
+
+Project css file was minified. To minify css file I have used online resource:
+http://minifycode.com/css-minifier/
+
+You could see the favicon in the page title. To do favicon.ico file I used:
+https://www.icoconverter.com/
+
 
 Thank you and enjoy!
