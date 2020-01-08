@@ -23,9 +23,9 @@ Page 4 Registration, in this section user will fill the registration form.
 There is a extra link called Version 1.0 for visiting original web site.
 Added Page 5 called Gallery with three fotos. 
 
-### Testing and Deployment###
+### Testing and Deployment ###
 
-Project testing was carried out manually. 
+Project testing was carried out manually in Web browser. 
 
 Testing Home Page.
 
@@ -57,8 +57,7 @@ All developing process you could track by visiting this source https://github.co
 ### Technologies Used ###
 
 To complete this project the site developer uses HTML, CSS languages and framework BOOTSTRAP.
-The project was developed and tested in Gitpod IDE and transferred from Gitpod to Github external repository:
-https://github.com/aleksandrsg/FirhouseF.C.
+The project was developed and tested in Gitpod IDE and transferred from Gitpod to Github external repository.
 
 Project css file was minified. To minify css file I have used online resource:
 http://minifycode.com/css-minifier/
