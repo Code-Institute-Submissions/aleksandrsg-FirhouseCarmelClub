@@ -52,7 +52,7 @@ Deployment
 
 This project was started in 13th of October and finished till 10th of December 2019.
 Each project step was developed in GitPod IDE, tested in Google Chrome browser with web developers tools and commited to GitHub. Totally for this period was made 31 commits to GitHub from GitPod IDE. 
-All developing process you could track by visiting this source https://github.com/aleksandrsg/FirhouseF.C./commits/master.
+All developing process you could track by visiting this source: https://github.com/aleksandrsg/FirhouseCarmelClub/commits/master.
 
 ### Technologies Used ###
 
