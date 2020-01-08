@@ -23,7 +23,7 @@ Page 4 Registration, in this section user will fill the registration form.
 There is a extra link called Version 1.0 for visiting original web site.
 Added Page 5 called Gallery with three fotos. 
 
-### Testing ###
+### Testing and Deployment###
 
 Project testing was carried out manually. 
 
@@ -31,15 +31,11 @@ Testing Home Page.
 
 I begun testing from the first page of the project, Home. 
 Most critical errors from this page was:
-
-Sites Logo was located in the top-middle of page and had a big size, after that Logo had been moved to the left-top and minimized in size;
-
-Logo was not displayed, fixed logo source link;
-
+At the beginning of the project site Logo was located in the top-middle of page and had a big size, after that Logo had been moved to the left-top and minimized in size; 
+Logo was not displayed as incorrect source link, fixed logo source link;
 The same problem was with the background image source link, internal link was change to external link https://www.essentiallysports.com/wp-content/uploads/football-2518982_960_720.jpg and image started to display;
-
-Menu toggle button worked incorrectly. When toggle button was pushed the main menu overlapped the image, 
-the problem was fixed and now menu opens correctly and background image go down.
+Menu toggle button worked incorrectly. When toggle button was pushed the main menu overlapped the image, the problem was fixed and now menu opens correctly and background image go down.
+On some pages footer section was high in mobile version, have made some adjustments to move it down.
 
 Testing page About.
 
@@ -50,8 +46,13 @@ Testing page Gallery.
 Text inside the image was too small, fixed by increase of the text size.
 Side arrows inside image was too small, fixed by increase of the arrows size.
 
-Particular attention during development and testing was given to the mobile version of the site so that all elements do not go over each other or behind the screen.
+Particular attention during development and testing was given to the mobile version of the site so that all elements do not go over each other or behind the screen. Many testing with fonts-sizes, elements colors, margins and paddings to make page looks good.
 
+Deployment
+
+This project was started in 13th of October and finished till 10th of December 2019.
+Each project step was developed in GitPod IDE, tested in Google Chrome browser with web developers tools and commited to GitHub. Totally for this period was made 31 commits to GitHub from GitPod IDE. 
+All developing process you could track by visiting this source https://github.com/aleksandrsg/FirhouseF.C./commits/master.
 
 ### Technologies Used ###
 
@@ -64,6 +65,5 @@ http://minifycode.com/css-minifier/
 
 You could see the favicon in the page title. To do favicon.ico file I used:
 https://www.icoconverter.com/
-
 
 Thank you and enjoy!
