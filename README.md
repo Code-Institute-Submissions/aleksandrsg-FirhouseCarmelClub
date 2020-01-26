@@ -28,6 +28,8 @@ Added Page 5 called Gallery with three fotos.
 Project testing was carried out manually in Web browser. 
 
 To remove horizontal scroll from all pages I added for Tag <Body> style (overflow-x:hidden;) and horizontal scroll line disappeared.
+  
+Added sticky-top class for header section to sticky menu on the top while scrolling page down.
 
 Testing Home Page.
 
