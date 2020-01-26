@@ -96,7 +96,7 @@ body html {
     align-content: center;
     border: solid 2px #242A87;
 }
-}.label {
+.label {
     font-size: 14px;
     margin-top: 25px;
     font-weight: normal;
@@ -153,6 +153,6 @@ option {
     height: 0px;
 }
 .carousel-inner>.carousel-item>img {
-    width: 100px;
-    height: 560px;
+    width: 100%;
+    height: auto;
 }
