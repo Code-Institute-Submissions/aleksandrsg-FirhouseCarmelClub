@@ -27,6 +27,8 @@ Added Page 5 called Gallery with three fotos.
 
 Project testing was carried out manually in Web browser. 
 
+To remove horizontal scroll from all pages I added for Tag <Body> style (overflow-x:hidden;) and horizontal scroll line disappeared.
+
 Testing Home Page.
 
 I begun testing from the first page of the project, Home. 
@@ -35,7 +37,7 @@ At the beginning of the project site Logo was located in the top-middle of page 
 Logo was not displayed as incorrect source link, fixed logo source link;
 The same problem was with the background image source link, internal link was change to external link https://www.essentiallysports.com/wp-content/uploads/football-2518982_960_720.jpg and image started to display;
 Menu toggle button worked incorrectly. When toggle button was pushed the main menu overlapped the image, the problem was fixed and now menu opens correctly and background image go down.
-On some pages footer section was high in mobile version, have made some adjustments to move it down.
+On some pages footer section was high in mobile version, have made some adjustments to move it down. 
 
 Testing page About.
 
