@@ -22,6 +22,7 @@ world wide web.
 • I am for active live for kids
 • As viewer, I would like to see photographs and videos from the club matches
 • As sponsor I would like to find the club for financial support
+• I want to find links to other club social media resorces like Instagram, Facebook, Twitter.
 
 ### Features ###
 
