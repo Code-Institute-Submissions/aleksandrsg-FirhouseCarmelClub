@@ -11,6 +11,18 @@ The main goal is help to find for  parents (site users / local community) inform
 On the other hand, the web sites owners will get more recognition and advertisement via
 world wide web.
 
+##User stories##
+
+•	My goal was to create user friendly, easily accessible, web resource for local community and people who searching information about local sport clubs for kids
+• New to the website I am looking for local football club
+• As user, I would like to find out contact information
+• I want to be able to phone or write an email to the football club
+• As user, I would like to find out club location
+• I want to be able to fill registration form and send it
+• I am for active live for kids
+• As viewer, I would like to see photographs and videos from the club matches
+• As sponsor I would like to find the club for financial support
+
 ### Features ###
 
 The web site consists from four conected with each other web pages.
@@ -51,7 +63,7 @@ Testing page Gallery.
 
 Text inside the image was too small, fixed by increase of the text size.
 Side arrows inside image was too small, fixed by increase of the arrows size.
-
+The photos for Gallery have been taken from free resource https://ru.freeimages.com/
 Particular attention during development and testing was given to the mobile version of the site so that all elements do not go over each other or behind the screen. Many testing with fonts-sizes, elements colors, margins and paddings to make page looks good.
 
 Deployment
