@@ -31,6 +31,8 @@ To remove horizontal scroll from all pages I added for Tag <Body> style (overflo
   
 Added sticky-top class for header section to sticky menu on the top while scrolling page down.
 
+Project CSS file called style.css have checked by online Validator https://jigsaw.w3.org/css-validator/ and all critical errors were removed. Also HTML code of each page was checked and approved by online Validator by following link https://validator.w3.org/#validate_by_input.
+
 Testing Home Page.
 
 I begun testing from the first page of the project, Home. 
