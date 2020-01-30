@@ -36,7 +36,7 @@ Page 4 Registration, in this section user will fill the registration form.
 There is a extra link called Version 1.0 for visiting original web site.
 Added Page 5 called Gallery with three fotos. 
 
-### Testing and Deployment ###
+### Testing ###
 
 Project testing was carried out manually in Web browser. 
 
@@ -67,11 +67,30 @@ Side arrows inside image was too small, fixed by increase of the arrows size.
 The photos for Gallery have been taken from free resource https://ru.freeimages.com/
 Particular attention during development and testing was given to the mobile version of the site so that all elements do not go over each other or behind the screen. Many testing with fonts-sizes, elements colors, margins and paddings to make page looks good.
 
-Deployment
+### Deployment ###
 
 This project was started in 13th of October and finished till 10th of December 2019.
 Each project step was developed in GitPod IDE, tested in Google Chrome browser with web developers tools and commited to GitHub. Totally for this period was made 31 commits to GitHub from GitPod IDE. 
 All developing process you could track by visiting this source: https://github.com/aleksandrsg/FirhouseCarmelClub/commits/master.
+
+Deployment steps:
+
+1. Open github.com;
+2. Find plus symbol on the top right conrner and click it;
+3. Choose function New Repository;
+4. Fill section Repository name - FirhouseCarmelClub;
+5. Choose Public (Anyone can see this repository. You choose who can commit);
+6. Push Create Repository;
+7. The Repository created https://github.com/aleksandrsg/FirhouseCarmelClub.git;
+8. Press GitPod green button on the right side;
+9. Create first Document index.html;
+10. In terminal window command line type - git add . ;
+11. In terminal window command line type - git commit -m "Comment";
+12. In terminal window command line type - git push;
+13. Go back to https://github.com/aleksandrsg/FirhouseCarmelClub;
+14. Click settings;
+15. Find below section GitHub Pages and choose Master branch;
+16. Your site is published at https://aleksandrsg.github.io/FirhouseCarmelClub/
 
 ### Technologies Used ###
 
