@@ -13,16 +13,16 @@ world wide web.
 
 ##User stories##
 
-1.My goal was to create user friendly, easily accessible, web resource for local community and people who searching information about local sport clubs for kids
-2.New to the website I am looking for local football club
-3.As user, I would like to find out contact information
-4.I want to be able to phone or write an email to the football club
-5.As user, I would like to find out club location
-6.I want to be able to fill registration form and send it
-7.I am for active live for kids
-8.As viewer, I would like to see photographs and videos from the club matches
-9.As sponsor I would like to find the club for financial support
-10.As viewer, I want to find links to other club social media resorces like Instagram, Facebook, Twitter.
+My goal was to create user friendly, easily accessible, web resource for local community and people who searching information about local sport clubs for kids;
+New to the website I am looking for local football club;
+As user, I would like to find out contact information;
+I want to be able to phone or write an email to the football club;
+As user, I would like to find out club location;
+I want to be able to fill registration form and send it;
+I am for active live for kids;
+As viewer, I would like to see photographs and videos from the club matches;
+As sponsor I would like to find the club for financial support;
+As viewer, I want to find links to other club social media resorces like Instagram, Facebook, Twitter.
 
 ### Features ###
 
