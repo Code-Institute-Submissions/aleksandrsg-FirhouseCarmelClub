@@ -13,23 +13,19 @@ world wide web.
 
 ##User stories##
 
-My goal was to create user friendly, easily accessible, web resource for local community and people who searching information about local sport clubs for kids;
-
 New to the website I am looking for local football club;
 
-As user, I would like to find out contact information;
+As user, I could find out contact information;
 
-I want to be able to phone or write an email to the football club;
+I want to be able to phone or write an email to the football club and receive feedback;
 
-As user, I would like to find out club location;
+As user, I could find out club location;
 
 I want to be able to fill registration form and send it;
 
-I am for active live for kids;
+As parent, I could see photographs and videos from the club matches;
 
-As viewer, I would like to see photographs and videos from the club matches;
-
-As sponsor I would like to find the club for financial support;
+As sponsor I could find the club for financial support;
 
 As viewer, I want to find links to other club social media resorces like Instagram, Facebook, Twitter.
 
