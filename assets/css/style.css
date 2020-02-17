@@ -2,6 +2,9 @@ body html {
     margin: 0;
     padding: 0;
     height: 100%}
+
+/* Main Page */
+
 .backgroundimg {
     background-image: url('https://www.essentiallysports.com/wp-content/uploads/football-2518982_960_720.jpg');
     background-size: cover;
@@ -9,35 +12,7 @@ body html {
     background-repeat: no-repeat;
     height: 100%;
     width: 100%}
-.social-links {
-    padding-bottom: 15px;
-}
-.social-links li a i {
-    width: 32px;
-    height: 32px;
-    padding: 12px 0;
-    border-radius: 50%;
-    font-size: 13px;
-    line-height: 7px;
-    text-align: center;
-    color: #fafafa;
-    background: #5B8A1D;
-    transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-}
-.social-links li a i:hover {
-    background-color: #252B88;
-}
-#footer-details {
-    padding: 20px;
-}
-.footer {
-    text-align: center;
-    padding-top: 20px;
-    height: 30px;
-}
+
 .h1 {
     text-align: center;
     margin: 100px;
@@ -52,6 +27,9 @@ body html {
     color: #fafafa;
     font-family: 'VT323', monospace;
 }
+
+/* Navigation */
+
 .navbar-toggler {
     padding:  .25rem .75rem;
     font-size: 1.25rem;
@@ -82,6 +60,9 @@ body html {
     margin-right: 50px;
     margin-top: 20px;
 }
+
+/* Contact Page */
+
 .iframe {
     width:100%; 
     height:450px;
@@ -101,6 +82,9 @@ body html {
     align-content: center;
     border: solid 2px #242A87;
 }
+
+/* Subscription Page */
+
 .label {
     font-size: 14px;
     margin-top: 25px;
@@ -139,9 +123,17 @@ option {
     margin-top: 5px;
     margin-left: 40px;
 }
+
+/* Gallery Page */
+
 .carousel-control-next-icon, .carousel-control-prev-icon {
     width: 40px;
     height: 40px;
+}
+
+.carousel-inner>.carousel-item>img {
+    width: 100%;
+    height: auto;
 }
 /*
 #shell {
@@ -153,16 +145,42 @@ option {
     padding: 10px;
     padding-bottom: 0px;
 }
+
+/* Footer */
+
+.social-links {
+    padding-bottom: 15px;
+}
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #5B8A1D;
+    transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+}
+.social-links li a i:hover {
+    background-color: #252B88;
+}
+#footer-details {
+    padding: 20px;
+}
+.footer {
+    text-align: center;
+    padding-top: 20px;
+    height: 30px;
+}
+
 #footer {
     position: absolute;
     bottom: 0;
     width: 100%;
     height: 0px;
 }
-
-
-.carousel-inner>.carousel-item>img {
-    width: 100%;
-    height: auto;
-}
-

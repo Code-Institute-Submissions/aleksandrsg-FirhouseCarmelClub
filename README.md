@@ -11,6 +11,7 @@ The main goal is help to find for  parents (site users / local community) inform
 On the other hand, the web sites owners will get more recognition and advertisement via
 world wide web.
 
+Projects wireframes are located in the directory https://github.com/aleksandrsg/FirhouseCarmelClub/tree/master/assets/wireframe
 ##User stories##
 
 New to the website I am looking for local football club;
