@@ -6,7 +6,7 @@ body html {
 /* Main Page */
 
 .backgroundimg {
-    background-image: url('https://www.essentiallysports.com/wp-content/uploads/football-2518982_960_720.jpg');
+    background-image:linear-gradient( rgba(0,0,0,.5), rgba(0,0,0,.5)), url('https://www.essentiallysports.com/wp-content/uploads/football-2518982_960_720.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -59,9 +59,24 @@ body html {
     margin-left: 50px;
     margin-right: 50px;
     margin-top: 20px;
+    font-weight: 400;
 }
 
 /* Contact Page */
+
+.contact {
+    text-align: inherit;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 50px;
+    color: lavender;
+    margin-top: 20px;
+}
+.map {
+    margin-top: 20px;
+    align-content: center;
+    margin-right: 30px;    
+}
 
 .iframe {
     width:100%; 
@@ -69,25 +84,17 @@ body html {
     border:0;
 }
 
-.contact {
-    text-align: inherit;
-    font-size: 20px;
-    font-weight: 400;
-    margin-left: 40px;
-    color: white;
-    margin-top: 35px;
-}
-.map {
-    margin-top: 35px;
-    align-content: center;
-    border: solid 2px #242A87;
-}
-
 /* Subscription Page */
+
+.registration {
+    margin-left: 50px;
+    color: lavender;
+    margin-top: 20px;
+}
 
 .label {
     font-size: 14px;
-    margin-top: 25px;
+    margin-top: 20px;
     font-weight: normal;
 }
 .form-control {
@@ -148,9 +155,6 @@ option {
 
 /* Footer */
 
-.social-links {
-    padding-bottom: 15px;
-}
 .social-links li a i {
     width: 32px;
     height: 32px;
@@ -175,7 +179,7 @@ option {
 .footer {
     text-align: center;
     padding-top: 20px;
-    height: 30px;
+    height: 100%;
 }
 
 #footer {
