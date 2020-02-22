@@ -73,8 +73,8 @@ Side arrows inside image was too small, fixed by increase of the arrows size.
 The photos for Gallery have been taken from free resource https://ru.freeimages.com/
 Particular attention during development and testing was given to the mobile version of the site so that all elements do not go over each other or behind the screen. Many testing with fonts-sizes, elements colors, margins and paddings to make page looks good.
 
-I have made the following improvment for Project re-submition:
-* Applied linear-gradient for backround image to make it darker, that front text looks better.
+I have made the following improvements for Project resubmission:
+* Applied linear-gradient for background image to make it darker, that front text looks better.
 * For MENU applied position sticky-top, that it always stays on the top.
 * Each page has unique <Title>.
 * Added user stories and wireframes.
@@ -84,7 +84,7 @@ I have made the following improvment for Project re-submition:
 * HTML and CSS codes checked via Validators.
 * Created folder Assets for better file organization.
 * Added more micro commits with correct messages while working on improvemets.
-* Added others improvenments.
+* Added others improvements.
 
 ### Deployment ###
 
